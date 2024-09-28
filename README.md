@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @P1faG0r
-- 👀 I’m interested in System Administrator
+- 👀 I’m interested in System Administrator and Cybersecurity
 - 🌱 I’m currently learning Linux, Python!
 
 <!---
